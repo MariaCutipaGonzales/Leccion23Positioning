@@ -1,0 +1,48 @@
+#rojo{
+	position: relative;
+	background: red;
+	width: 150px;
+	height: 150px;
+	margin: 15px;
+}
+
+#morado{
+	position: relative;
+	background: purple;
+	width: 80px;
+	height: 82px;
+	top: 34px;
+	left: 37px;
+}
+
+#amarillo{
+	position: relative;
+	background: yellow;
+	width: 40px;
+	height: 40px;
+}
+
+#azul{
+	position: relative;
+	background: blue;
+	width: 150px;
+	height: 150px;
+	margin: 15px;
+}
+
+#verde{
+	position: relative;
+	background: green;
+	width: 80px;
+	height: 82px;
+	top: 37px;
+	left: 37px;
+}
+
+#negro{
+	position: relative;
+	background: black;
+	width: 37px;
+	height: 37px;
+	bottom: 82px;
+}
